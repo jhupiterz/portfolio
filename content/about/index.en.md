@@ -9,6 +9,9 @@ math:
   enable: true
 ---
 <p>&nbsp;</p>
+<center>
+<img src="jhupiterz.png" alt="julie" width="250"/>
+</center>
 <p>&nbsp;</p>
 
 ### Hi there!:wave:
@@ -23,5 +26,4 @@ I always seek to have a positive impact on my surroundings through community **a
 
 I believe Data Science is key :key: to understanding the world we live in, and become better humans.
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-:(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw):
+:(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart:
