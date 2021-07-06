@@ -1,4 +1,4 @@
-baseURL = "https://jhupiterz.github.io/julie-hartz/"
+baseURL = "https://jhupiterz.github.io"
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
