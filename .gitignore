@@ -1,2 +1,8 @@
 .DS_Store
 hugo
+assets
+config.toml
+content
+resources
+static
+themes
