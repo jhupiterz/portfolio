@@ -27,4 +27,6 @@ I always seek to have a positive impact on my surroundings through community **a
 I believe Data Science is key :key: to understanding the world we live in, and become better humans.
 <p>&nbsp;</p>
 
-:(fas fa-code fa-fw)::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash: :space_invader: :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::(fas fa-code fa-fw):
+:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw): :brain::yellow_heart::robot: :(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code fa-fw):-:(fas fa-code):-:(fas fa-code fa-fw):
+
+<p>&nbsp;</p>
