@@ -1,182 +1,74 @@
 ---
 weight: 3
-title: "Theme Documentation - Built-in Shortcodes"
-date: 2020-03-04T16:29:41+08:00
-lastmod: 2020-03-04T16:29:41+08:00
+title: "Olist - Brazilian e-commerce challenge"
+date: 2021-07-05T16:29:41+08:00
+lastmod: 2021-07-05T16:29:41+08:00
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
-description: "Hugo provides multiple built-in shortcodes for author convenience and to keep your markdown content clean."
+author: "Julie"
+authorLink: ""
+description: "Data analytics challenge from Kaggle"
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  src: "ecommerce.jpg"
 
-tags: ["shortcodes"]
-categories: ["documentation"]
+#tags: ["shortcodes"]
+#categories: ["documentation"]
 
 lightgallery: true
 ---
 
-**Hugo** provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.
+**Olist challenge**: healthily increase your e-commerce profits!
+
+*Language:* Python
 
 <!--more-->
 
-Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.
+## 1 Problem
 
-But this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.
+How to **increase** Olist's (Brazil's largest department store) monthly **profits** while maintaining a **healthy** order rate?
 
-To avoid this limitations, Hugo created [shortcodes](https://gohugo.io/extras/shortcodes/).
-A shortcode is a simple snippet that can generate reasonable HTML code and conforms to Markdown's design philosophy.
+## 2 Solution
 
-Hugo ships with a set of predefined shortcodes that represent very common usage. These shortcodes are provided for author convenience and to keep your markdown content clean.
+This **Data Analytics** project makes use of the [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) to provide **applicable solutions** for increasing Olist's monthly profits in a **healthy** and **sustainable** way.
 
-## 1 figure {#figure}
+## 3 Objectives
 
-[Documentation of `figure`](https://gohugo.io/content-management/shortcodes#figure)
+To address the problem, **two objectives** have been set:
 
-Example `figure` input:
+1. **Identification** of the main sources of loss (low-performing sellers)
+2. **Simulation** of two loss-reduction solutions
 
-```markdown
-{{</* figure src="/images/lighthouse.jpg" title="Lighthouse (figure)" */>}}
-```
+## 4 Results
 
-The rendered output looks like this:
+### 4.1 Identify the worst-performing sellers
 
-{{< figure src="/images/lighthouse.jpg" title="Lighthouse (figure)" >}}
+<img src="data_viz.png" alt="low-performing sellers" width="800"/>
 
-The HTML looks like this:
+The worst-performing sellers have been identified as the sellers with the highest monthly orders, usually with more than 80 orders per month.
 
-```html
-<figure>
-    <img src="/images/lighthouse.jpg"/>
-    <figcaption>
-        <h4>Lighthouse (figure)</h4>
-    </figcaption>
-</figure>
-```
+### 4.2 Loss-reduction solutions
 
-## 2 gist
+#### **Solution 1:** limiting strategy
 
-[Documentation of `gist`](https://gohugo.io/content-management/shortcodes#gist)
+<img src="solution1.png" alt="first solution" width="600"/>
 
-Example `gist` input:
+By limiting a seller's number of monthly orders to 30 when their share of 1-star reviews are >10%, Olist's monthly profits sustainably increase by 0.8%. 
 
-```markdown
-{{</* gist spf13 7896402 */>}}
-```
+**Benefits:** 
+* no sellers are banned --> Olist doesn't lose customers
+* Reduce "bad sellers" negative impact by 3.5 factor
 
-The rendered output looks like this:
+**Trade-offs:**
+* Low impact on monthly profits: only 0.8% increase
 
-{{< gist spf13 7896402 >}}
+#### **Solution 2:** ban strategy
 
-The HTML looks like this:
+<img src="solution2.png" alt="second solution" width="700"/>
 
-```html
-<script type="application/javascript" src="https://gist.github.com/spf13/7896402.js"></script>
-```
+By banning the worst-performing sellers from the online platform, Olist's monthly profits increase by 17%. 
 
-## 3 highlight
+**Benefits:** 
+* High impact on monthly profits: 17% profit increase
 
-[Documentation of `highlight`](https://gohugo.io/content-management/shortcodes#instagram)
-
-Example `highlight` input:
-
-```markdown
-{{</* highlight html */>}}
-<section id="main">
-    <div>
-        <h1 id="title">{{ .Title }}</h1>
-        {{ range .Pages }}
-            {{ .Render "summary"}}
-        {{ end }}
-    </div>
-</section>
-{{</* /highlight */>}}
-```
-
-The rendered output looks like this:
-
-{{< highlight html >}}
-<section id="main">
-    <div>
-        <h1 id="title">{{ .Title }}</h1>
-        {{ range .Pages }}
-            {{ .Render "summary"}}
-        {{ end }}
-    </div>
-</section>
-{{< /highlight >}}
-
-## 4 instagram
-
-[Documentation of `instagram`](https://gohugo.io/content-management/shortcodes#instagram)
-
-Example `instagram` input:
-
-```markdown
-{{</* instagram BWNjjyYFxVx hidecaption */>}}
-```
-
-The rendered output looks like this:
-
-{{< instagram BWNjjyYFxVx hidecaption >}}
-
-## 5 param
-
-[Documentation of `param`](https://gohugo.io/content-management/shortcodes#param)
-
-Example `param` input:
-
-```markdown
-{{</* param description */>}}
-```
-
-The rendered output looks like this:
-
-{{< param description >}}
-
-## 6 ref and relref {#ref-and-relref}
-
-[Documentation of `ref` and `relref`](https://gohugo.io/content-management/shortcodes#ref-and-relref)
-
-## 7 tweet
-
-[Documentation of `tweet`](https://gohugo.io/content-management/shortcodes#tweet)
-
-Example `tweet` input:
-
-```markdown
-{{</* tweet 877500564405444608 */>}}
-```
-
-The rendered output looks like this:
-
-{{< tweet 877500564405444608 >}}
-
-## 8 vimeo
-
-[Documentation of `vimeo`](https://gohugo.io/content-management/shortcodes#vimeo)
-
-Example `vimeo` input:
-
-```markdown
-{{</* vimeo 146022717 */>}}
-```
-
-The rendered output looks like this:
-
-{{< vimeo 146022717 >}}
-
-## 9 youtube
-
-[Documentation of `youtube`](https://gohugo.io/content-management/shortcodes#youtube)
-
-Example `youtube` input:
-
-```markdown
-{{</* youtube w7Ft2ymGmfc */>}}
-```
-
-The rendered output looks like this:
-
-{{< youtube w7Ft2ymGmfc >}}
+**Trade-offs:**
+* Olist loses customers and monthly orders
