@@ -9,7 +9,7 @@ theme = "LoveIt"
 # themes directory
 # 主题目录
 # themesDir = "../.."
-canonifyURLs = true
+#canonifyURLs = true
 # website title
 # 网站标题
 title = "Julie Hartz"
