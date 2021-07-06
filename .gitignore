@@ -1,8 +1,2 @@
 .DS_Store
 hugo
-assets
-content
-resources/_gen/assets/scss
-static
-themes/LoveIt
-config.toml
