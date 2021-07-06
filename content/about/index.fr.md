@@ -8,8 +8,10 @@ lightgallery: true
 math:
   enable: true
 ---
-
 <p>&nbsp;</p>
+<center>
+<img src="jhupiterz.png" alt="julie" width="250"/>
+</center>
 <p>&nbsp;</p>
 
 ### Bonjour!:wave:
@@ -27,4 +29,4 @@ Selon moi la Data Science est la **clé**:key: pour comprendre le monde dans leq
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-:(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw):
+:(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart:
