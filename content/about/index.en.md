@@ -10,7 +10,7 @@ math:
 ---
 <p>&nbsp;</p>
 <center>
-<img src="jhupiterz.png" alt="julie" width="250"/>
+<img src="modified_avatar.png" alt="julie" width="250"/>
 </center>
 <p>&nbsp;</p>
 
@@ -26,4 +26,5 @@ I always seek to have a positive impact on my surroundings through community **a
 
 I believe Data Science is key :key: to understanding the world we live in, and become better humans.
 <p>&nbsp;</p>
-:(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart::(fas fa-code fa-fw)::blue_heart:
+
+:(fas fa-code fa-fw)::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::zap::space_invader::zap::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::(fas fa-code fa-fw):
